@@ -1,0 +1,45 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Modern Sofa",
+        "description": "A sleek and comfortable sofa with modern design.",
+        "price": 799.99,
+        "image": "images\\i-1.jpg",
+        "category": "Sofas"
+      },
+      {
+        "id": 2,
+        "name": "Wooden Dining Table",
+        "description": "A sturdy wooden dining table perfect for family gatherings.",
+        "price": 499.99,
+        "image": "images\\t-1.jpg",
+        "category": "Dining Tables"
+      },
+      {
+        "id": 3,
+        "name": "Leather Recliner Chair",
+        "description": "Relax in style with this luxurious leather recliner chair.",
+        "price": 599.99,
+        "image": "images\\t-1.jpg",
+        "category": "Chairs"
+      },
+      {
+        "id": 4,
+        "name": "Queen Size Bed Frame",
+        "description": "A sturdy and elegant bed frame for a comfortable night's sleep.",
+        "price": 899.99,
+        "image": "images\\t-1.jpg",
+        "category": "Beds"
+      },
+      {
+        "id": 5,
+        "name": "Coffee Table Set",
+        "description": "A set of modern coffee tables perfect for your living room.",
+        "price": 299.99,
+        "image": "images/t-1.jpg",
+        "category": "Coffee Tables"
+      }
+    ]
+  }
+  
